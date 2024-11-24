@@ -18,6 +18,9 @@ OpenSUSE has no oficial support for qmk, therefore docker or podman is preferabl
 
 ### Other
 
+* https://precondition.github.io/home-row-mods#home-row-mods-order
+    * Good guide on homerow mods
+
 * https://github.com/filterpaper/qmk_userspace
     * OLED Files got from there
     * There are .github workflows there to get inspiration
